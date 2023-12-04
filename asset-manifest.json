@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kbx-dc-pj/static/css/main.e233931d.css",
-    "main.js": "/kbx-dc-pj/static/js/main.9213709e.js",
-    "static/media/Ubuntu-Regular.woff2": "/kbx-dc-pj/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
-    "static/media/UbuntuCondensed-Regular.woff2": "/kbx-dc-pj/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
-    "index.html": "/kbx-dc-pj/index.html",
-    "main.e233931d.css.map": "/kbx-dc-pj/static/css/main.e233931d.css.map",
-    "main.9213709e.js.map": "/kbx-dc-pj/static/js/main.9213709e.js.map"
+    "main.css": "/static/css/main.35a38523.css",
+    "main.js": "/static/js/main.d33d51ae.js",
+    "static/media/Ubuntu-Regular.woff2": "/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
+    "static/media/UbuntuCondensed-Regular.woff2": "/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
+    "index.html": "/index.html",
+    "main.35a38523.css.map": "/static/css/main.35a38523.css.map",
+    "main.d33d51ae.js.map": "/static/js/main.d33d51ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.e233931d.css",
-    "static/js/main.9213709e.js"
+    "static/css/main.35a38523.css",
+    "static/js/main.d33d51ae.js"
   ]
 }
